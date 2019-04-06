@@ -1,0 +1,28 @@
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\bin\Debug\Compiler.exe.config
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\bin\Debug\Compiler.exe
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\bin\Debug\Compiler.pdb
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\obj\Debug\Compiler.exe
+D:\MyProject\Visual Studio 2017\Projects\Compiler\Compiler\obj\Debug\Compiler.pdb
+E:\4o8l\Fclty\7th Term\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe.config
+E:\4o8l\Fclty\7th Term\Compiler\Compiler\Compiler\bin\Debug\Compiler.exe
+E:\4o8l\Fclty\7th Term\Compiler\Compiler\Compiler\bin\Debug\Compiler.pdb
+E:\4o8l\Fclty\7th Term\Compiler\Compiler\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+E:\4o8l\Fclty\7th Term\Compiler\Compiler\Compiler\obj\Debug\Compiler.Form1.resources
+E:\4o8l\Fclty\7th Term\Compiler\Compiler\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+E:\4o8l\Fclty\7th Term\Compiler\Compiler\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+E:\4o8l\Fclty\7th Term\Compiler\Compiler\Compiler\obj\Debug\Compiler.exe
+E:\4o8l\Fclty\7th Term\Compiler\Compiler\Compiler\obj\Debug\Compiler.pdb
+E:\4o8l\Fclty\7th Term\Compiler\CompilerProject v1.0\Compiler\bin\Debug\Compiler.exe.config
+E:\4o8l\Fclty\7th Term\Compiler\CompilerProject v1.0\Compiler\bin\Debug\Compiler.exe
+E:\4o8l\Fclty\7th Term\Compiler\CompilerProject v1.0\Compiler\bin\Debug\Compiler.pdb
+E:\4o8l\Fclty\7th Term\Compiler\CompilerProject v1.0\Compiler\obj\Debug\Compiler.csprojResolveAssemblyReference.cache
+E:\4o8l\Fclty\7th Term\Compiler\CompilerProject v1.0\Compiler\obj\Debug\Compiler.Form1.resources
+E:\4o8l\Fclty\7th Term\Compiler\CompilerProject v1.0\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+E:\4o8l\Fclty\7th Term\Compiler\CompilerProject v1.0\Compiler\obj\Debug\Compiler.csproj.GenerateResource.Cache
+E:\4o8l\Fclty\7th Term\Compiler\CompilerProject v1.0\Compiler\obj\Debug\Compiler.exe
+E:\4o8l\Fclty\7th Term\Compiler\CompilerProject v1.0\Compiler\obj\Debug\Compiler.pdb
